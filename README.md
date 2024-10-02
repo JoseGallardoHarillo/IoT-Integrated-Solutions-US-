@@ -1,10 +1,5 @@
 # IoT-Integrated-Solutions-US-
-## Features
-- **Augmented Reality Display**: 
-  - Point your device's camera at the book or image to display its synopsis in augmented reality.
-- **Navigation**: 
-  - Easily navigate through different books and images available in the repository.
-  - Search for specific titles quickly.
+Projects related to the design and assembly of an IoT system, including Arduino, Raspberry Pi, MySensors, and PCB development, carried out during the degree at ETSII (University of Seville)
 
 ## Requirements
 - **Arduino IDE version:** 1.8.19
